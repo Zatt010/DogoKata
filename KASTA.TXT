@@ -1,0 +1,32 @@
+<ol>
+        <li><label for="kata1">KataBankOCR</label></li>
+        <li><label for="kata2">KataFizzBuzz</label></li>
+        <li><label for="kata3">FooBarQix</label></li>
+        <li><label for="kata4">KataPotter</label></li>
+        <li><label for="kata5">KataRomanNumerals</label></li>
+        <li><label for="kata6">KataRomanCalculator</label></li>
+        <li><label for="kata7">KataNumbersInWords</label></li>
+        <li><label for="kata8">KataArgs</label></li>
+        <li><label for="kata9">KataAnagram</label></li>
+        <li><label for="kata10">KataDepthFirstSearch</label></li>
+        <li><label for="kata11">KataNumberToLCD</label></li>
+        <li><label for="kata12">KataBowling</label></li>
+        <li><label for="kata13">KataGameOfLife</label></li>
+        <li><label for="kata14">KataMastermid</label></li>
+        <li><label for="kata15">KataMinesweeper</label></li>
+        <li><label for="kata16">KataPacMan</label></li>
+        <li><label for="kata17">KataPokerHands</label></li>
+        <li><label for="kata18">KataReversi</label></li>
+        <li><label for="kata19">KataTennis</label></li>
+        <li><label for="kata20">KataTexasHoldEm</label></li>
+        <li><label for="kata21">KataTradingCardGame</label></li>
+        <li><label for="kata22">KataYahtzee</label></li>
+        <li><label for="kata23">KataRange</label></li>
+        <li><label for="kata24">KataDictionaryReplacer</label></li>
+        <li><label for="kata25">KataWordWrap</label></li>
+        <li><label for="kata26">KataQotdCgi</label></li>
+        <li><label for="kata27">KataJEEWebAuthentication</label></li>
+        <li><label for="kata28">TDDMicroExercises</label></li>
+        <li><label for="kata29">TensionsAndSynergiesBetweenDesignPrinciples</label></li>
+        <li><label for="kata30">ObjectsRelationshipsCodingDojo</label></li>
+      </ol>
